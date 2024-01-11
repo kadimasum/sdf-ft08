@@ -1,0 +1,25 @@
+BIG O Notation
+--------------
+
+Measure time complexity and space complexity
+
+Time complexity
+---------------
+Constant time = O(1)
+Liniear time = O(n) [1,2,3,4,5,6]
+Logarithmic time = O(log n) = [1,2,3,4,5,6]
+Exponential time = O(n2)
+O(n log n)
+
+
+
+
+Space Complexity
+-------------------------
+Constant space = O(1)
+Liner space = O(n)
+Logarithmic space  = O(log n) = [1,2,3,4,5,6]
+Exponential space = O(n2)
+O(n log n)
+
+DSA

@@ -37,3 +37,7 @@ let twoSum = function(arr, num){
 
 let result = twoSum([2,6,9,1], 7)
 console.log(result)
+
+
+// time complexity = O(n2)
+// Space complexity = O(1)

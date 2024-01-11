@@ -38,3 +38,7 @@ function reverseString(str){
 
 let result = reverseString("7.9")
 console.log(result)
+
+
+// Space complexity = O(n)
+// Time complexity = O(n)
